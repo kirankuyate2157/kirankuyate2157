@@ -53,11 +53,6 @@
 <br><br>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirankuyate2157&theme=dark&no-frame=true" alt="kirankuyate2157" />
-  
-
-
-<br>
-<br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kirankuyate2157&show_icons=true&locale=en&&theme=tokyonight" alt="kirankuyate2157" />
 
