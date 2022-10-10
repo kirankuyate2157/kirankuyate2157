@@ -71,12 +71,19 @@
 
 
 <br><br>
-<p align="center">
+<p align="center" width="500">
 
 [![Kiran's github activity graph](https://activity-graph.herokuapp.com/graph?username=kirankuyate2157&theme=tokyo-night&hide_border=true)](https://github.com/kirankuyate2157/github-readme-activity-graph)
 
 </p>
-<h2 align="center"> Show some 💖 by starting repository!</h2>
+
+<h4 align="center"> Watch my contribution graph being eaten by a Snake! 🐍 </h4>
+
+![snake gif](https://github.com/kirankuyate2157/kirankuyate2157/blob/output/github-contribution-grid-snake.svg)
+
+
+
+<h2 align="center"> 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💖 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜! 🤩 </h2>
 
  ![image](https://user-images.githubusercontent.com/84271800/194931916-2bac531d-ccea-447a-acee-e75e8fdc974b.png)
 
