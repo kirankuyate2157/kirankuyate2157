@@ -51,11 +51,10 @@
 
 
 <br><br>
-<p float="center" >
-  <img src="https://user-images.githubusercontent.com/84271800/194917953-919bfa5f-bd87-4df4-a639-2a9f5d18bf54.png#gh-dark-mode-only" width="210" style="background-color: transparent" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirankuyate2157&theme=dark&no-frame=true" alt="kirankuyate2157" />
-  <img src="https://user-images.githubusercontent.com/84271800/194918066-f7095649-b70d-4144-8487-452fa9f4a149.png" width="210" />
-</p>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirankuyate2157&theme=dark&no-frame=true" alt="kirankuyate2157" />
+  
+
 
 <br>
 <br>
