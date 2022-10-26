@@ -2,6 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/84271800/194936626-02de68eb-ce2c-408b-ae0e-4ab6c35e0334.png)
 
+## 👈🤗✨🌟 follow 
 
 <h3 align="left"> I'm Kiran 🙋‍♂️, a third year CSE student with a great passion for programming, a tech enthusiast with passion to solve problems and to make things. I'm a AI-ML Enthusiast, like coding 🧑‍💻 ,cloud ☁️,dev 🧑‍💻 and playing with Data 🤩. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else 😃.</h3>
 
