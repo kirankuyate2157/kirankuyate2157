@@ -24,7 +24,7 @@
 
 - 👯 I’m looking to collaborate on **database python base projects**
 
-- 📝 I regularly write articles on [hashnode](hashnode)
+- 📝 I regularly write articles on [hashnode](https://hashnode.com/@Kiran2157)
 
 - 💬 Ask me about **anything you want.**
 
