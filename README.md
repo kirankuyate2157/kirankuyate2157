@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **kiranrkuyate2021@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny😄**
+- ⚡ Fun fact **I think I'm not to much funny😄**
 
 
 
