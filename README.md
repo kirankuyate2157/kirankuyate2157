@@ -74,9 +74,6 @@
 
 
 
-
-![@kiran2157's Holopin board](https://holopin.me/kiran2157)
-
 [![An image of @kiran2157's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kiran2157)](https://holopin.io/@kiran2157)
 
 
