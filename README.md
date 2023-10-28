@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://twitter.com/kuyatekiran" target="blank"><img src="https://img.shields.io/twitter/follow/kuyatekiran?logo=twitter&style=for-the-badge" alt="kuyatekiran" /></a> </p>
 
 
-<img align="right" alt="codding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" style="border: 1px solid black" />
+<img align="right" alt="codding"  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" style="border: 1px solid black; padding:2px 0px; width:40vw" />
 
 
 
